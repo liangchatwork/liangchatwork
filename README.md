@@ -63,7 +63,7 @@
 ### DevOps / Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
 </p>
 
 ---
