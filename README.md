@@ -27,16 +27,13 @@
 ### Backend / Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,flask,fastapi" />
 </p>
 
 ### AI / Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
 </p>
@@ -78,12 +75,12 @@
 
 <p>
   <a href="https://github.com/liangchatwork">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
   </a>
   <a href="https://www.linkedin.com/in/hsunjerry-liang">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" />
   </a>
   <a href="mailto:liangchatwork@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
   </a>
 </p>
