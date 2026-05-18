@@ -64,6 +64,6 @@
 
 ## Contact Info
 
-[![GitHub](https://img.shields.io/badge/GitHub-tnjerry37-181717?style=for-the-badge&logo=github)](https://github.com/liangchatwork)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chen--Hsun%20Liang-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hsunjerry-liang)
-[![Email](https://img.shields.io/badge/Email-tnjerry37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liangchatwork@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/liangchatwork)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Liang-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hsunjerry-liang)
+[![Email](https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liangchatwork@gmail.com)
