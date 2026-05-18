@@ -6,7 +6,7 @@
 
 - Master's Student in Department of Computer Science and Information Engineering (CSIE) at National Cheng Kung University (NCKU).
 - With Exchange Experience in Informatics at Technical University of Munich (TUM).
-- Proficient in Cybersecurity, Cryptography, AI, and Software Engineering.
+- Focused on Cybersecurity, Cryptography, AI, and Software Engineering.
 
 ---
 
