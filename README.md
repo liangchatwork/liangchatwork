@@ -38,29 +38,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
 </p>
 
-### Cryptography / Security
+### Cybersecurity / Cryptography
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      🔐<br>
-      <sub>Cryptography</sub>
-    </td>
-    <td align="center" width="120">
-      🧮<br>
-      <sub>CKKS</sub>
-    </td>
-    <td align="center" width="160">
-      🔒<br>
-      <sub>Homomorphic Encryption</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-0F172A?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 ### Databases / Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
 </p>
 
 ### DevOps / Tools
@@ -81,6 +78,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" />
   </a>
   <a href="mailto:liangchatwork@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" />
   </a>
 </p>
