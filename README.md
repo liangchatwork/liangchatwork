@@ -10,24 +10,43 @@
 
 ---
 
+## Projects
+
+### [High Climber!!](https://github.com/liangchatwork/high-climber)
+
+Taiwan mountain climbing dashboard with route-level map, weather information, hiking checklist, and mountain-related resources.
+
+![High Climber Demo](./public/high-climber-demo.gif)
+
+---
+
+### [ChatGPT Minecraft](https://github.com/liangchatwork/ai-minecraft-100)
+
+A Minecraft-inspired crafting and survival prototype built through ChatGPT-assisted development.
+
+![ChatGPT Minecraft Demo](./public/ai-minecraft-demo.gif)
+
+
+---
+
 ## Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
 ### Backend / Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" />
 </p>
 
 ### AI / Data Science
@@ -63,7 +82,7 @@
 ### DevOps / Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,github" />
 </p>
 
 ---
