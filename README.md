@@ -12,7 +12,7 @@
 
 ## Projects
 
-### [High Climber!!](https://github.com/liangchatwork/high-climber)
+### [High Climber!! : 台灣登山專用 DashBoard](https://github.com/liangchatwork/high-climber)
 
 Taiwan mountain climbing dashboard with route-level map, weather information, hiking checklist, and mountain-related resources.
 
@@ -20,12 +20,19 @@ Taiwan mountain climbing dashboard with route-level map, weather information, hi
 
 ---
 
-### [ChatGPT Minecraft](https://github.com/liangchatwork/ai-minecraft-100)
+### [挑戰與 AI 對話 100 次還原出 Minecraft](https://github.com/liangchatwork/ai-minecraft-100)
 
 A Minecraft-inspired crafting and survival prototype built through ChatGPT-assisted development.
 
 ![ChatGPT Minecraft Demo](./public/ai-minecraft-demo.gif)
 
+---
+
+### [AI Voice Transcriptor : 影片剪輯字幕生成工具](https://github.com/liangchatwork/ai_voice_transcriptor)
+
+A desktop transcription tool for generating subtitle files from audio and video, focused on Traditional Chinese / Taiwanese Mandarin transcription workflows.
+
+![AI Voice Transcriptor Demo](./public/ai-voice-transcriptor-demo.gif)
 
 ---
 
